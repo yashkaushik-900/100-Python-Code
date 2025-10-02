@@ -15,4 +15,5 @@
 # print("the value is ",not bool2)
 # print(type(bool1))
 a=input("gooot value")
+
 print(type(a))
